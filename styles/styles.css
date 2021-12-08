@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif, monospace;
+}
+body{
+    background-color: rgb(4, 16, 20);
+    padding: 70px;
+}
+
+h1{
+    color: olive;
+    font-family: monospace;
+    font-size: 2.5em;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    border-bottom: 2px solid olive;
+    margin-bottom: 100px;
+}
+
+img{
+    position: relative;
+    left: 42%;
+    width: 240px;
+    height: 150px;
+}
+h3{
+   color: olive;
+   font-family: monospace;
+   text-align: center;
+   padding: 70px;
+}
+
+li{
+    font-size: 1.2em;
+    color: #fff;
+    text-align: left;
+    margin-left: 60px;
+    padding: 8px;
+}
+
+li a{
+    font-family: monospace;
+    font-size: 1.3em;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+button{
+    color: navy;
+    width: 80px;
+    height: 50px;
+    padding: 15px;
+    margin: 40px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    text-decoration: none;
+    font-family: monospace;
+    text-align: center;
+    color: navy;
+}
+
